@@ -1,78 +1,80 @@
-<<<<<<< HEAD
-# Welcome to your Lovable project
+# Resume Project by Raj
 
-## Project info
+Welcome to the **Resume Project** created by Raj! This project demonstrates core concepts of **encryption and decryption** using modern web technologies. It serves as both a learning resource and a practical implementation for securing sensitive information in web applications.
 
-**URL**: https://lovable.dev/projects/9c399ba9-03ff-48d8-8e4d-057f89778af6
+---
 
-## How can I edit this code?
+## 🔐 Features
 
-There are several ways of editing your application.
+- **Encryption & Decryption:** Securely encrypt and decrypt user data with easy-to-use interfaces.
+- **Modern UI:** Built with React and Tailwind CSS for a responsive and intuitive experience.
+- **TypeScript Support:** Ensures type safety and code reliability.
+- **Vite-Powered:** Fast, modern build tooling for instant feedback and rapid development.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9c399ba9-03ff-48d8-8e4d-057f89778af6) and start prompting.
+## 🚀 Getting Started
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Follow these steps to run the project locally:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# 1. Clone the repository
+git clone https://github.com/raj15-defend/resume-project.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# 2. Navigate into the project directory
+cd resume-project
 
-# Step 3: Install the necessary dependencies.
-npm i
+# 3. Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Visit `http://localhost:5173` in your browser to see the app in action.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🛠️ Tech Stack
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **React**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **shadcn-ui** (for styled components)
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 📄 Project Structure
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- `/src`: Source code for components, pages, and utilities.
+- `/public`: Static assets and HTML template.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/9c399ba9-03ff-48d8-8e4d-057f89778af6) and click on Share -> Publish.
+## 🌍 Deployment
 
-## Can I connect a custom domain to my Lovable project?
+You can deploy this project using platforms like **Vercel**, **Netlify**, or **GitHub Pages**. Simply connect your repository and follow their guides for deployment.
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 👤 Author
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-=======
-# resume-project
-encryption decryption 
->>>>>>> d5f497ea501c5a73eddd97090a58eb0f1336148d
+**Raj**  
+GitHub: [raj15-defend](https://github.com/raj15-defend)
+
+---
+
+## 📫 Contact
+
+Feel free to open issues or pull requests for suggestions, bug reports, or contributions!
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Happy coding! 🚀
